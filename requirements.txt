@@ -1,0 +1,8 @@
+# GitHub Commit Collector Requirements
+# This program uses only Python standard library modules
+# No additional packages are required
+
+# Optional: For development and testing
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
